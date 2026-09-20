@@ -1,1 +1,1 @@
-# Artifiial_Intellegene_Study
+# Artifiial Intellegene Study
