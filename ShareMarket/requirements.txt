@@ -1,0 +1,4 @@
+flask
+httpx
+pandas
+neo_api_client
