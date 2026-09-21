@@ -8,3 +8,4 @@ uvicorn
 requests
 brevo-python
 python-dotenv
+kotakneoapi
