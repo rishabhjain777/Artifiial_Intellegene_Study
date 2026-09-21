@@ -1,4 +1,5 @@
-flask
+Flask
+gunicorn
 httpx
 pandas
-neo_api_client
+kotakneoapi
